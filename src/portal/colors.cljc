@@ -141,4 +141,21 @@
     ::package     "#ffffff"
     ::exception   "#a3be8c"
     ::diff-add    "#b8bb26"
-    ::diff-remove "#fb4934"}})
+    ::diff-remove "#fb4934"}
+   ::flexoki-light
+   {::text        "#100f0f"
+    ::background  "#fffcf0"
+    ::background2 "#f2f0e5"
+    ::boolean     "#d0a215"
+    ::string      "#3aa99f"
+    ::keyword     "#da702c"
+    ::namespace   "#d0a215"
+    ::tag         "#da702c"
+    ::symbol      "#d0a215"
+    ::number      "#100f0f"
+    ::uri         "#3aa99f"
+    ::border      "#cecdc3"
+    ::package     "#ce5d97"
+    ::exception   "#d14d41"
+    ::diff-add    "#879a39"
+    ::diff-remove "#d14d41"}})
